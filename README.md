@@ -1,2 +1,2 @@
-# skuser03_debops
+# skuser03_devops
 Github test repository
